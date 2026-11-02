@@ -14,3 +14,5 @@ To comply with the upstream licensing:
 ## Datasets and Dependencies
 - **IBM HR Analytics Employee Attrition & Performance:** Used for initial model training.
 - **Python Libraries:** All Python dependencies (e.g., scikit-learn, pandas, SHAP) are managed via `pyproject.toml` and use OSI-approved open-source licenses (MIT, BSD, Apache 2.0).
+
+- **Source URL:** https://raw.githubusercontent.com/danielsc/azureml-workshop-2019/master/data/IBM-Employee-Attrition.csv
